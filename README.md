@@ -4,9 +4,7 @@
 <!--                        HERO CARD                                 -->
 <!-- ════════════════════════════════════════════════════════════════ -->
 
-<img src="https://github.com/dajarony.png" width="140" height="140" style="border-radius: 50%;" />
-
-# **dajarony**
+# ⬢ **dajarony**
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3200&pause=700&color=2563EB&center=true&vCenter=true&width=720&lines=Arquitecto+de+sistemas+gobernados;Creador+del+protocolo+SCP;IA+controlada%2C+no+IA+improvisada;C%C3%B3digo+que+dura.+Dise%C3%B1o+que+escala" alt="Animated headline" />
 
