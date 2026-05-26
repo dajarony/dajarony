@@ -1,188 +1,372 @@
 <div align="center">
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- HERO IMAGE — sube tu infografía "dev card" como assets/hero.png -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ════════════════════════════════════════════════════════════════ -->
+<!--                        HERO CARD                                 -->
+<!-- ════════════════════════════════════════════════════════════════ -->
 
-<img src="assets/hero.png" alt="Dajarony — No construyo apps. Construyo una forma controlada de construir apps." width="100%" />
+<img src="https://github.com/dajarony.png" width="140" height="140" style="border-radius: 50%;" />
+
+# **dajarony**
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3200&pause=700&color=2563EB&center=true&vCenter=true&width=720&lines=Arquitecto+de+sistemas+gobernados;Creador+del+protocolo+SCP;IA+controlada%2C+no+IA+improvisada;C%C3%B3digo+que+dura.+Dise%C3%B1o+que+escala" alt="Animated headline" />
 
 <br/>
 
-<!-- Animación tipo terminal -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3200&pause=700&color=2563EB&center=true&vCenter=true&width=720&lines=Arquitecto+de+sistemas+gobernados;Creador+del+protocolo+SCP;IA+controlada%2C+no+IA+improvisada;Cada+contrato+declara+la+verdad" alt="Animated headline" />
+### ❝ *No construyo apps. Construyo una forma controlada de construir apps.* ❞
 
-<br/><br/>
+<br/>
 
-<!-- Pilares de la marca -->
 <table>
 <tr>
-<td align="center">🛡️<br/><b>Tipado fuerte</b></td>
-<td align="center">📐<br/><b>Declarativo</b></td>
-<td align="center">📋<br/><b>Predecible</b></td>
-<td align="center">🔒<br/><b>Confiable</b></td>
-<td align="center">🧠<br/><b>Auditable</b></td>
+<td align="center" width="20%">
+<picture><source srcset="https://img.shields.io/badge/-Tipado_fuerte-1E40AF?style=for-the-badge" /></picture><br/>
+🛡️
+</td>
+<td align="center" width="20%">
+<picture><source srcset="https://img.shields.io/badge/-Declarativo-1E40AF?style=for-the-badge" /></picture><br/>
+📐
+</td>
+<td align="center" width="20%">
+<picture><source srcset="https://img.shields.io/badge/-Predecible-1E40AF?style=for-the-badge" /></picture><br/>
+📋
+</td>
+<td align="center" width="20%">
+<picture><source srcset="https://img.shields.io/badge/-Confiable-1E40AF?style=for-the-badge" /></picture><br/>
+🔒
+</td>
+<td align="center" width="20%">
+<picture><source srcset="https://img.shields.io/badge/-Auditable-1E40AF?style=for-the-badge" /></picture><br/>
+🧠
+</td>
+</tr>
+<tr>
+<td align="center"><b>Tipado fuerte</b></td>
+<td align="center"><b>Declarativo</b></td>
+<td align="center"><b>Predecible</b></td>
+<td align="center"><b>Confiable</b></td>
+<td align="center"><b>Auditable</b></td>
 </tr>
 </table>
-
-<br/>
-
-### ✨ *"No construyo apps. Construyo una forma controlada de construir apps."*
 
 </div>
 
 ---
 
-## 🌐 El ecosistema Dajarony
+<div align="center">
 
-Una sola filosofía aplicada a seis productos: **gobernanza + contratos formales + modularidad + IA controlada**.
+##  El ecosistema Dajarony
+
+*Una sola filosofía aplicada a seis productos:*  
+**gobernanza + contratos formales + modularidad + IA controlada**
+
+</div>
 
 <table>
 <tr>
-<th align="left">Proyecto</th>
-<th align="left">Qué hace</th>
-<th align="left">Stack</th>
-<th align="center">Estado</th>
+<th align="left" width="22%">Proyecto</th>
+<th align="left" width="48%">Qué hace</th>
+<th align="left" width="20%">Stack</th>
+<th align="center" width="10%">Estado</th>
 </tr>
 
 <tr>
-<td><b>🛡️ Auralis</b><br/><sub>Governance layer</sub></td>
+<td>🛡️ <b>Auralis</b><br/><sub><i>Governance layer</i></sub></td>
 <td>Plan · Contract · Approve · Execute · Audit. La capa de gobernanza que falta a los AI agents.</td>
-<td>Python · FastAPI · SQLite</td>
-<td align="center">🟢 activo</td>
+<td><sub>Python · FastAPI · SQLite</sub></td>
+<td align="center"><img src="https://img.shields.io/badge/-activo-16A34A?style=flat-square" /></td>
 </tr>
 
 <tr>
-<td><b>🤖 Trinidad</b><br/><sub>Multi-agent engine</sub></td>
+<td>🤖 <b>Trinidad</b><br/><sub><i>Multi-agent engine</i></sub></td>
 <td>Generator · Critic · Evaluator · Coordinator. Consenso configurable (STRICT/WEIGHTED/MAJORITY/ADAPTIVE).</td>
-<td>Python · React · Docker</td>
-<td align="center">🟢 activo</td>
+<td><sub>Python · React · Docker</sub></td>
+<td align="center"><img src="https://img.shields.io/badge/-activo-16A34A?style=flat-square" /></td>
 </tr>
 
 <tr>
-<td><b>💹 Dajarony Trading AI</b><br/><sub>Ejecución financiera</sub></td>
+<td>💹 <b>Dajarony Trading AI</b><br/><sub><i>Ejecución financiera</i></sub></td>
 <td>Trading multi-instrumento. OANDA real. Multi-LLM (Claude · DeepSeek · Qwen · OpenAI). Risk-first.</td>
-<td>Python · FastAPI · OANDA</td>
-<td align="center">🟢 activo</td>
+<td><sub>Python · FastAPI · OANDA</sub></td>
+<td align="center"><img src="https://img.shields.io/badge/-activo-16A34A?style=flat-square" /></td>
 </tr>
 
 <tr>
-<td><b>🎨 Dajarony Núcleo Flutter</b><br/><sub>UI framework</sub></td>
+<td>🎨 <b>Dajarony Núcleo Flutter</b><br/><sub><i>UI framework</i></sub></td>
 <td>Framework Flutter modular con SCP, errores tipados (Result/DajaronyError), lifecycle de módulos y trazabilidad.</td>
-<td>Flutter · Dart</td>
-<td align="center">🔵 maduración</td>
+<td><sub>Flutter · Dart</sub></td>
+<td align="center"><img src="https://img.shields.io/badge/-maduraci%C3%B3n-2563EB?style=flat-square" /></td>
 </tr>
 
 <tr>
-<td><b>🌊 Piscinas API</b><br/><sub>Cliente vertical IoT</sub></td>
+<td>🌊 <b>Piscinas API</b><br/><sub><i>Cliente vertical IoT</i></sub></td>
 <td>SaaS para gestión y monitorización de piscinas. Diagnóstico IA, control de bombas, simulación.</td>
-<td>FastAPI · Firebase · Docker</td>
-<td align="center">🟣 vertical</td>
+<td><sub>FastAPI · Firebase · Docker</sub></td>
+<td align="center"><img src="https://img.shields.io/badge/-vertical-8B5CF6?style=flat-square" /></td>
 </tr>
 
 <tr>
-<td><b>🔐 VPN Backend Auralis</b><br/><sub>Cliente vertical infra</sub></td>
+<td>🔐 <b>VPN Backend</b><br/><sub><i>Cliente vertical infra</i></sub></td>
 <td>VPN empresarial con WireGuard, Firebase Auth, herramientas de seguridad IA. Security audit completo.</td>
-<td>Python · WireGuard · Firebase</td>
-<td align="center">🟣 vertical</td>
+<td><sub>Python · WireGuard · Firebase</sub></td>
+<td align="center"><img src="https://img.shields.io/badge/-vertical-8B5CF6?style=flat-square" /></td>
 </tr>
 
 </table>
 
-> 🟢 activo y abierto · 🔵 en maduración · 🟣 producto vertical de cliente
-
 ---
-
-## 📐 SCP — Screen Contract Protocol
 
 <div align="center">
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- Sube la infografía SCP como assets/scp.png                       -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+##  SCP — Screen Contract Protocol
 
-<img src="assets/scp.png" alt="SCP — Screen Contract Protocol: Pantalla → Estados → Acciones → Validaciones → Result" width="100%" />
-
-### *"Cada pantalla declara su verdad."*
+### ❝ *Cada pantalla declara su verdad.* ❞
 
 </div>
 
-El **Screen Contract Protocol** es mi aportación al diseño de UI. Cada pantalla declara formalmente qué módulos pide, qué estados acepta, qué acciones permite, qué validaciones impone y qué errores puede devolver.
+<table>
+<tr>
+<td align="center" width="20%" valign="top">
 
-```
-1. Pantalla       →  qué muestra
-2. Estados        →  qué puede cambiar
-3. Acciones       →  qué puede ejecutar
-4. Validaciones   →  qué reglas exige
-5. Result<T, E>   →  qué devuelve
-```
+###  ❶
+### **Pantalla**
+
+<sub>**qué muestra**</sub>
+
+Define la interfaz y los datos que presenta al usuario.
+
+</td>
+<td align="center" width="3%"><h2>→</h2></td>
+<td align="center" width="20%" valign="top">
+
+###  ❷
+### **Estados**
+
+<sub>**qué puede cambiar**</sub>
+
+Modela la información de la pantalla y cómo evoluciona.
+
+</td>
+<td align="center" width="3%"><h2>→</h2></td>
+<td align="center" width="20%" valign="top">
+
+###  ❸
+### **Acciones**
+
+<sub>**qué puede ejecutar**</sub>
+
+Define las intenciones del usuario que disparan cambios.
+
+</td>
+<td align="center" width="3%"><h2>→</h2></td>
+<td align="center" width="11%" valign="top">
+
+###  ❹
+### **Reglas**
+
+<sub>**qué exige**</sub>
+
+Validaciones para que los datos sean válidos.
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td align="center" valign="top">
+
+###  ❺  **`Result<T, DajaronyError>`** — qué devuelve
+
+Devuelve un resultado tipado: **éxito con datos `T`** o **error controlado** con `TraceId`, severity, módulo de origen y contexto serializable.
+
+</td>
+</tr>
+</table>
 
 <div align="center">
 
-> **El código obedece al contrato. No improvisa.**
+<table>
+<tr>
+<td align="center" width="20%">
+<sub>**`</>`**</sub><br/>
+<b>Tipado total</b><br/>
+<sub>Contratos explícitos<br/>sin ambigüedades</sub>
+</td>
+<td align="center" width="20%">
+<sub>🧩</sub><br/>
+<b>Reutilizable</b><br/>
+<sub>Contratos que se<br/>componen y escalan</sub>
+</td>
+<td align="center" width="20%">
+<sub>🛡️</sub><br/>
+<b>Predecible</b><br/>
+<sub>Menos sorpresas,<br/>más control</sub>
+</td>
+<td align="center" width="20%">
+<sub>🔬</sub><br/>
+<b>Testeable</b><br/>
+<sub>Fácil de simular,<br/>fácil de verificar</sub>
+</td>
+<td align="center" width="20%">
+<sub>🧠</sub><br/>
+<b>IA integrada</b><br/>
+<sub>Convive con IA sin<br/>perder determinismo</sub>
+</td>
+</tr>
+</table>
+
+<br/>
+
+### ❝ *El código obedece al contrato. No improvisa.* ❞
 
 </div>
 
 ---
-
-## 🧱 Dajarony Núcleo Flutter
 
 <div align="center">
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- Sube la infografía del núcleo Flutter como assets/core.png       -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+##  Dajarony Núcleo Flutter
 
-<img src="assets/core.png" alt="Dajarony Núcleo Flutter — Framework modular con contratos explícitos" width="80%" />
+*Framework modular con contratos explícitos*
 
 </div>
 
-Framework Flutter modular con **errores tipados end-to-end**, lifecycle de módulos con `DependencyResolver` topológico, DI propio sin librerías externas, EventBus, AuditTrail y HealthMonitor con timeout por módulo.
+<table>
+<tr>
+<td width="33%" valign="top">
 
-**Lo que lo hace único:**
+###  Módulos
 
-- 🎯 **`Result<T, DajaronyError>`** impuesto por contrato — sin excepciones huérfanas.
-- 🧩 **`DajaronyModule`** con lifecycle explícito: `discovered → validated → initializing → active → error/inactive`.
-- 📜 **SCP en código** — cada pantalla con su contrato formal P1…PN.
-- 🤖 **Diseñado para agentes IA** — `AGENTS.md` + Playbook + STATUS.md permiten a Claude, Codex y GPT continuar el trabajo sin improvisar.
-- 🩺 **HealthMonitor** con backpressure — un módulo colgado no tumba la app.
+```
+┌──────────────────┐
+│  auth_core       │
+│  Autenticación   │
+├──────────────────┤
+│  user_core       │
+│  Usuarios        │
+├──────────────────┤
+│  shop_core       │
+│  Catálogo        │
+├──────────────────┤
+│  analytics_core  │
+│  Analítica       │
+└──────────────────┘
+```
+
+</td>
+<td width="33%" valign="top" align="center">
+
+###  Núcleo
+
+🛡️ **SCP**  
+*Screen Contract Protocol*
+
+⚠️ **Errores tipados**  
+*`Result<T, DajaronyError>`*
+
+🔄 **Lifecycle de módulos**  
+*Estados explícitos*
+
+🔗 **Trazabilidad end-to-end**  
+*`TraceId` propagado*
+
+</td>
+<td width="33%" valign="top">
+
+###  Contratos
+
+```
+┌──────────────────┐
+│ Screen Contracts │
+│ Interfaces       │
+├──────────────────┤
+│ Typed Errors     │
+│ Errores tipados  │
+├──────────────────┤
+│ Data Contracts   │
+│ Estructuras      │
+├──────────────────┤
+│ Event Contracts  │
+│ Eventos          │
+└──────────────────┘
+```
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+###  Arquitectura modular
+
+```
+┌──────────┐    ┌──────┐    ┌───────────┐    ┌──────┐    ┌──────────┐
+│ UI Layer │ →  │ Core │ →  │ Contracts │ →  │ Data │ →  │ Services │
+└──────────┘    └──────┘    └───────────┘    └──────┘    └──────────┘
+```
+
+**Desacoplado · Tipado · Trazable · Escalable**
+
+</div>
+
+<br/>
+
+```dart
+// Ejemplo real del núcleo: ejecutar un contrato con error tipado
+Result<T, E> execute<T, E>(Contract c) {
+  try {
+    return Ok(run(c));
+  } on DomainError catch (e, st) {
+    return Err(e).trace(TraceId.newId(), st);
+  }
+}
+```
 
 ---
 
-## 🎯 Capas del ecosistema
+<div align="center">
+
+##  Capas del ecosistema
+
+</div>
 
 ```
-┌────────────────────────────────────────────────────────────┐
-│  CAPA INTELIGENCIA                                          │
-│  🛡️ Auralis   →  Governance, contratos, approvals          │
-│  🤖 Trinidad  →  Multi-agent engine, consenso              │
-├────────────────────────────────────────────────────────────┤
-│  CAPA VERTICAL                                              │
-│  💹 Trading AI  →  Ejecución financiera con risk control    │
-│  🌊 Piscinas    →  IoT/SaaS modular                         │
-│  🔐 VPN         →  Infra empresarial con WireGuard          │
-├────────────────────────────────────────────────────────────┤
-│  CAPA CLIENTE                                               │
-│  🎨 Dajarony Flutter  →  UI con SCP, errores tipados        │
-└────────────────────────────────────────────────────────────┘
+┌─────────────────────────────────────────────────────────────────┐
+│  CAPA INTELIGENCIA                                              │
+│  🛡️  Auralis     →   Governance, contratos, approvals          │
+│  🤖  Trinidad    →   Multi-agent engine, consenso              │
+├─────────────────────────────────────────────────────────────────┤
+│  CAPA VERTICAL                                                  │
+│  💹  Trading AI  →   Ejecución financiera con risk control      │
+│  🌊  Piscinas    →   IoT/SaaS modular                           │
+│  🔐  VPN         →   Infra empresarial con WireGuard            │
+├─────────────────────────────────────────────────────────────────┤
+│  CAPA CLIENTE                                                   │
+│  🎨  Dajarony Flutter  →  UI con SCP, errores tipados           │
+└─────────────────────────────────────────────────────────────────┘
 ```
 
-Cada capa puede usarse independiente. Las capas se conectan por contratos, nunca por acoplamiento.
+> Cada capa puede usarse independiente. Las capas se conectan por contratos, nunca por acoplamiento.
 
 ---
 
-## 💡 Filosofía de código
+<div align="center">
+
+##  Filosofía de código
+
+</div>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🎯 Errores tipados
+###  Errores tipados
 `Result<T, E>` en lugar de excepciones huérfanas. Cada error sabe **qué pasó, dónde, cuándo, y por qué**. Trazabilidad con `TraceId` end-to-end.
 
 </td>
 <td width="50%" valign="top">
 
-### 📋 Contratos explícitos
+###  Contratos explícitos
 Si una pantalla, módulo o agente puede hacer X, **el contrato lo declara**. Si no, no puede. Sin magia. Sin sorpresas.
 
 </td>
@@ -190,13 +374,13 @@ Si una pantalla, módulo o agente puede hacer X, **el contrato lo declara**. Si 
 <tr>
 <td valign="top">
 
-### 🧩 Modularidad real
+###  Modularidad real
 Cada módulo con su lifecycle, sus dependencias y su salud. **Topological sort** para arrancar en orden. Health monitor con timeout.
 
 </td>
 <td valign="top">
 
-### ⏳ Hecho para durar
+###  Hecho para durar
 Código que en 5 años sigue legible. Sin dependencias mágicas. Sin *"esto funciona, no lo toques"*. **Mantenible por humanos y por agentes IA.**
 
 </td>
@@ -205,23 +389,29 @@ Código que en 5 años sigue legible. Sin dependencias mágicas. Sin *"esto func
 
 ---
 
-## 🤖 Diseñado para agentes IA
+<div align="center">
+
+##  Diseñado para agentes IA
+
+</div>
 
 Todos mis proyectos llevan un `AGENTS.md` con reglas obligatorias para que **Claude, Codex y GPT puedan mantenerlos sin improvisar**.
 
-```
-AGENTS.md     →  reglas globales, qué hacer y qué NO hacer
-STATUS.md     →  bitácora de fases, qué hizo cada agente
-Playbook      →  metodología completa de construcción
+```yaml
+AGENTS.md:    reglas globales, qué hacer y qué NO hacer
+STATUS.md:    bitácora de fases, qué hizo cada agente
+Playbook:     metodología completa de construcción
 ```
 
-**Resultado real:** durante el desarrollo de Dajarony Núcleo Flutter, **Codex avanzó 5 fases consecutivas sin intervención humana** entre ellas — leyendo solo el `AGENTS.md`.
+> **Resultado real:** durante el desarrollo de Dajarony Núcleo Flutter, Codex avanzó **5 fases consecutivas** sin intervención humana entre ellas — leyendo solo el `AGENTS.md`.
 
 ---
 
-## 🛠️ Stack
-
 <div align="center">
+
+##  Stack
+
+<br/>
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
@@ -234,7 +424,7 @@ Playbook      →  metodología completa de construcción
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![WireGuard](https://img.shields.io/badge/WireGuard-88171A?style=for-the-badge&logo=wireguard&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Anthropic](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
@@ -245,9 +435,11 @@ Playbook      →  metodología completa de construcción
 
 ---
 
-## 📊 GitHub stats
-
 <div align="center">
+
+##  GitHub stats
+
+<br/>
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=dajarony&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dajarony&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
@@ -260,38 +452,46 @@ Playbook      →  metodología completa de construcción
 
 ---
 
-## 🧭 Métricas de calidad que persigo
+<div align="center">
+
+##  Métricas de calidad que persigo
+
+</div>
 
 ```yaml
 calidad:
-  - flutter analyze:    No issues found
-  - pytest:             All tests passed
-  - flake8 / black:     clean
-  - bandit + safety:    no vulnerabilities
+  flutter_analyze:    "No issues found"
+  pytest:             "All tests passed"
+  flake8_black:       clean
+  bandit_safety:      "no vulnerabilities"
 
 disciplina:
-  - max_file_lines:     300
-  - tipo_errores:       Result<T, E>
-  - colores_hardcoded:  0
-  - try_catch_huerfano: 0
-  - contratos_scp:      obligatorios
+  max_file_lines:     300
+  tipo_errores:       Result<T, E>
+  colores_hardcoded:  0
+  try_catch_huerfano: 0
+  contratos_scp:      obligatorios
 
 arquitectura:
-  - modular_por_feature:   sí
-  - barriles_por_carpeta:  sí
-  - DI_centralizado:       sí
-  - lifecycle_explícito:   sí
+  modular_por_feature:   yes
+  barriles_por_carpeta:  yes
+  DI_centralizado:       yes
+  lifecycle_explicito:   yes
+  trazabilidad:          end-to-end
 ```
 
 ---
 
 <div align="center">
 
-### 🌌 *"Código que dura. Diseño que escala."*
+###  ❝ *Cada error tipado cuenta una historia.* ❞
+###  ❝ *Cada módulo tiene un propósito.* ❞
+###  ❝ *Cada contrato declara la verdad.* ❞
+###  ❝ *Código legible hoy, mantenible mañana.* ❞
 
 <br/>
 
-**SCP** · **Screen Contract Protocol** · Una forma controlada de construir apps
+**SCP** · **Screen Contract Protocol** · *Una forma controlada de construir apps*
 
 <br/>
 
@@ -299,9 +499,6 @@ arquitectura:
 
 <br/>
 
-*"Cada error tipado cuenta una historia.*  
-*Cada módulo tiene un propósito.*  
-*Cada contrato declara la verdad.*  
-*Código legible hoy, mantenible mañana."*
+*Código que dura. Diseño que escala.*
 
 </div>
